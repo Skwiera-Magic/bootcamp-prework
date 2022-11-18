@@ -4,15 +4,6 @@
 
 I have never expected that I will be publishing my own website. I know it's very basic but as you will see in the footeer I'm learning, there's still long way ahead of me to become a pro. First time since school when I used any HTML or CSS so I'm quite happy with the results, while still aware that there's a lot to improve.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 No need to install anything other than web browser.
